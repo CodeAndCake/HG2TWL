@@ -1,2 +1,3 @@
-# hg4WL
-Hacking games to teach Web Literacies
+- [ ] Analyse `Fishery`
+- [ ] Prototype `Open Beesness`
+- [ ] Review Web literacies

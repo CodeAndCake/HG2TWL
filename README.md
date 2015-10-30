@@ -1,4 +1,4 @@
-- [ ] Analyse `Fishery`
+- [x] Analyse `Fishery`
 - [ ] Prototype `Open Beesness`
 - [ ] Review Web literacies
 

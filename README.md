@@ -1,6 +1,7 @@
 - [x] Analyse `Fishery`
 - [ ] Prototype `Open Beesness`
 - [ ] Review Web literacies
+- [ ] Review [I do and I understand](http://blog.ncase.me/i-do-and-i-understand/)- 
 
 
 ### License

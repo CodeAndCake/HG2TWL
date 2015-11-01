@@ -10,12 +10,6 @@ The goal is to have the most **money** by the end of 10 **years** (rounds).
 
 ### Setup
 
-<!-- 
-
-How many players? Up to 4
-
--->
-
 * Each player starts with a fishing rod **technology card** (cost 0).
 * Place **24 fish pieces** in the centre of the table. That will be the **pool**.
 * Place all the money aside. That will be the **bank**. If necessary elect a player who will take care of the money handling.
@@ -30,7 +24,7 @@ How many players? Up to 4
 	Boat (M) | 5        | 3            | if pool > 15 
 	Trawler  | 5        | 1            |  
 	Ship     | 8        | 2            |  
-	Ship     | 10       | 3            |  
+	Radar    | 10       | 3            |  
 
 ### Gameplay
 
@@ -67,7 +61,7 @@ Every year is comprised by 8 **phases**:
 
 	Starting from the player with the steering wheel and proceeding clockwise, players can decide to acquire technology cards by paying the cost reported on the top right corner.
 
-	Technology cards are never discarded and return in players' hands. At every expedition phase they decide decide which one to use without declaring their intentions.
+	Technology cards are never discarded and return in players' hands. At every expedition phase they decide which one to use without declaring their intentions.
 7. **Regeneration**
 
 	For each 3 remaining fish, add 1 fish to the pool up to a maximum of 30.

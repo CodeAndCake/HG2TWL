@@ -1,115 +1,168 @@
-- [ ] How many players? 2-4, 4+?
-- [ ] Tech?
-- [ ] Can you trade tech for bees?
-- [ ] How many bees do you start with?
-- [ ] We also have beeswax, pesticides, sting, pollen, nectar
-- [ ] Nectar cards? Nectar and pollen are bees' food. In literal terms, these would be *extraction power* cards.
-- [ ] Queen - worker - drones
-- [ ] the steering wheel?
-- [ ] scarce extraction?
-- [ ] Flowers or nectar?
+### TODO
+
+- [x] Tech? No tech
+- [x] Can you trade tech for bees? Nope.
+- [x] How many bees do you start with?
+- [ ] We also have beeswax, pesticides, sting, pollen, nectar..
+- [x] *Nectar cards*? Nectar and pollen are bees' food. In literal terms, these would be *extraction power* cards. We can have one nectar card which gives you *competitive advantage*: the right to start a turn first.
+- [x] Queen - worker - drones
+- [ ] scarce harvest?
 
 # Open Beesness
 
-This is a playable simulation of a capitalist economy. 
+### A *playable* simulation of a **capitalist economy** 
 
-Each player controls a *bee colony*. 
+As a player, you control a *bee colony*. 
 
 All colonies operate in the *garden of Commons*.
 
-The goal is to have the most **honey** by the end of the year.
+Throughout the game, you can deploy different *beesness models*: from converting flowers' nectar into honey, to stealing other colonies' honey, privatising flowers and other nasty moves..
+
+### Your goal
+
+To have the most **honey** at the end of the year!
+
+#### End game scenarios
+
+1. At the end of the year (12 turns), the colony with the **most honey wins**, provided there are still some flowers left in the *garden*.
+* If all flowers are picked from the garden, at any point during the game, **everybody loses**.
+
+<!--or after 3 consecutive turns with scarce extraction. -->
+
+### Unpacking the metaphors
+
+Just in case you still think this is about *bees*.
 
 Symbol			| Meaning
 ------ 			| -------
-Colony  		| Private company
-Workers			| Self-explanatory
-Drones			| ???
-Queens			| ???
-Flowers			| Common resources <sup>ideas, raw materials..
+Colony  		| Private company / corporation
+Flowers			| The Commons <sup>ideas, raw materials etc.
 Honey				| Money
-Turns				| Time (months)
-????				| Marketplace
+Turns				| Time
+Worker bees	| Self-explanatory
+Drones			| Military?
+Queens			| Growth?
+Nectar card	| Competitive advantage
 
-<!--????				| Tech -->
+#### What other metaphors can you think of?
 
-### Setup
+Could you *re-skin* this game with a different set of symbols? 
 
-How many players? Up to 4 
+How would that impact the meaning(s) produced during the gameplay?
 
-* Each player starts with 2 worker bees.
-* Place **24 flowers** in the garden. 
-* Place all the **honey** aside. That will be the *bank*. <sup>If necessary elect a player who will take care of the honey handling.
-* Put a **month marker** (any token) on the first month of the year (January?)
-* Determine a starting player.
-* Place the **nectar cards** aside and face up, stacked by type (6 stacks of 4 cards):
 
-	Name | Cost (honey)	| Extract (flowers) | Condition
-	---- | ------------	| ----------------- | ---------
-	Worker 		| 1      	| 1            | if garden > 15 
-	Drone 		| 3    	 	| 2            | if garden > 15 
-	Queen 		| 5      	| 3            | if garden > 15 
-	??????  	| 5      	| 1            |  
-	??????    	| 8      	| 2            |  
-	Sting     	| 10     	| 3            |  
+### SETUP
 
-### Gameplay
+#### How many players? From **2** to **infinity** 
 
-Every month is comprised by 8 **phases**:
+#### The garden of Commons
 
-1. **Planning**
+Plant **flowers** in the garden, according to the number of players.
 
-	All players, at the same time, play one nectar card among the ones they acquired. At every planning phase they decide which one to use without declaring their intentions??
-2. **Priority**
+Players			| Flowers
+------ 			| -------
+2  				| 24
+3  				| 28
+4  				| 32
+5  				| 36
+6  				| 40
+etc.  			| The formula: 2<sup>4</sup> + 4 × players
 
-	Players can invest extra honey to take priority in the extraction phase. They can do so by bidding freely. The highest bidder gets the steering wheel and gives the honey to the bank.
+#### The colony
 
-	Bidding is not necessary, it may be useful in time of *scarcity* later in the game.
-3. **Extraction**
+Each player starts with **1 worker bee**.
+ 
+#### The bank 
+ 
+Place all the **honey** aside. That will be the **bank**. 
 
-	Starting from the player with the steering wheel and proceeding clockwise, players extract the number of flowers corresponding to the nectar card they played - if there are flowers left.
+If necessary elect a player who will take care of the honey handling.
 
-	If the condition `more than 15 flowers in the garden` on a card is not met at the beginning of a player's turn, she will not extract any flowers.
-4. **Market price**
+#### The calendar 
 
-	Determine the price of flowers for the year by looking at the price chart line corresponding to the total number of flowers extracted by all players.
+Put a **month marker** (any token) on the first month of the year.
+
+#### The nectar card
+
+Determine a starting player and give her the **nectar card**.
+
+This gives a player the right to start first in a turn.
+
+#### The colonial cards
+
+Place the **colonial cards** aside and face up, stacked by type (4 stacks).
+
+NAME | PRICE <sup>honey	| RUNNING COST <sup>honey | SKILLS
+---- | ----------------	| ---------------------- | ------
+**Worker** bee		| 2    	| 1   | Pick **2 flowers / month** <br>**IF** the garden has more than half of the starting flowers <br> (eg: `if flowers > 16` when there are 4 players) 
+**Austerity** bee	| 4    	| 2   | Pick **2 flowers / month**
+**Drone** bee 		| 8    	| 3   | Steal **3 honey / month**
+**Queen** 				| 16   	| 4   | Generate **1 bee / month** <br>OR<br> Privatise **1 flower / month**
+
+
+### GAMEPLAY
+
+Every turn (month):
+
+1. **Who starts?**
 	
-	HARVEST | PRICE
-	------- | -----
-	more than 10 | 1
-	7 - 10       | 2
-	less than 7  | 3
-	Flowers extracted by all players this year | Per flowers
+	You can invest extra honey to execute your *beesness strategy* before all other players. 
 	
-5. **Income**
-
-	Each player gets an amount of honey equal to the market price multiplied by the number of flowers she caught this year. 
+	You do so by **bidding honey**. The highest bidder gets the *nectar card* (that is, the right to start first) and gives the honey to the bank.
 	
-	Extracted flowers are set apart.
-6. **Investment**
+	This is optional, but starting first in a turn may be useful in times of *austerity*.
+2. **Execute your beesness strategy!**
 
-	Starting from the player with the steering wheel and proceeding clockwise, players can decide to acquire nectar cards by paying their cost to the bank.
+	Starting from the player with the *nectar card* and proceeding clockwise, everyone plays their colonial cards.
+	
+	You can play from zero cards (but why would you?) to all of them.  
+	
+	Sticky situations:
 
-	Nectar cards are never discarded and return in players' hands. At every planning phase they decide which one to use without declaring their intentions.
-7. **Regeneration**
+	IF 	| BUT 	| THEN
+	-- 	| --- 	| ----
+	you want to use a **worker bee** to pick flowers | there are not enough flowers at the beginning of your turn to meet the condition `if flowers > X` | you cannot pick flowers with that card
+	you want to deploy **drones** against another player | s/he has got less honey than you could get | you can force them to use one or more of their colonial cards as "payment" (see **price** for that card)
+3. **Trade flowers for honey!**
 
-	For each 3 remaining flowers, add 1 flowers to the garden up to a maximum of 30.
+	Determine the unit price of flowers for the month by looking at the price chart line corresponding to the total number of flowers picked by all players in the garden of Commons.
+	
+	FLOWERS	| PRICE
+	-------	| -----
+	less than 5	| 8
+	5 - 8  			| 4
+	9 - 12			| 2
+	more than 12 | 1	
 
-	Example: if there are 7 flowers left, add 2.
-8. **End year**
+	Each player gets an amount of honey equal to the market price multiplied by the number of flowers she picked this year. 
+	
+	> For example: if you picked 2 flowers and their individual value is 4 (because all the flowers picked this month were between 5 and 8), then you'll get 8 honey.
+	
+	Flowers picked from the garden are set apart. **Unless** you have a *queen* (and you haven't already used it this month to generate a bee), in which case you can keep one flower per month. From the next month, this *privatised* flower will generate more honey for you. 
+4. **Pay the running costs** of your *beesness*!  
+  
+	For each colonial card, read its running cost and pay that amount in honey to the bank.
+5. **Invest** in your *colony*!
 
-	Move the month marker to the next space to keep track of the rounds.
+	 At this point you can decide to buy a colonial card by paying its price to the bank.  
+  
+	You can buy one colonial card per month.
+6. **Replant** the garden!
 
-	If the marker in on the last month the game ends and the winner is the player with most honey.
+	For every 4 remaining flowers, add 1 flower to the garden.
 
-	Otherwise the player with the steering wheel passes it to the player on her left and a new month starts.
+	> Example: if there are 9 flowers left, add 2.
+7. **End of the month**..
 
-### End game
+	Move the month marker to the next space to keep track of the turns.
 
-The game can end before the 12th turn if all flowers are extracted or after 3 consecutive turns with scarce extraction. 
+	If the marker in on the last month the game ends and the winner is the player with the most honey.
 
-In this cases *everybody loses*.
+	Otherwise, the player with the nectar card passes it to the player on her left and a new month starts.
 
 
-## Hackable ideas
+
+### Hackable ideas
 
 * Different types of flowers?
+* What happens when there are no flowers left? Declare a winner, everybody loses, something else?

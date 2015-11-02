@@ -120,13 +120,13 @@ Every turn (month):
 	You can play from zero cards (but why would you?) to all of them.  
 	
 	**Sticky situations**
-
-	IF 	| BUT 	| THEN
-	-- 	| --- 	| ---- 
-	you want to use a **worker bee** to pick flowers | there are not enough flowers at the beginning of your turn to meet the condition `if flowers > X` | you cannot pick flowers with that card
-	you want to deploy **drones** against another player | s/he has got less honey than you could get | you can force them to use one or more of their colonial cards as "payment" (see **price** for that card)  
 	
-	<!-- -->
+	IF	| BUT | THEN
+	-------	| --- | ----
+	you want to use a **worker bee** to pick flowers | there are not enough flowers at the beginning of your turn to meet the condition `if flowers > X` | you cannot pick flowers with that card
+	you want to deploy **drones** against another player | s/he has got less honey than you could get | you can force them to use one or more of their colonial cards as "payment" (see **price** for that card) 	
+
+	<!--Yas?-->
 3. **Trade flowers for honey!**
 
 	Determine the unit price of flowers for the month by looking at the price chart line corresponding to the total number of flowers picked by all players in the garden of Commons.

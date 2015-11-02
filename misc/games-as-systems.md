@@ -141,9 +141,9 @@ So there’s a great temptation to extract the remaining resources for higher ga
 
 Can we tell the story of a dysfunctional food system through a board game?
 
-Game [props](http://www.molleindustria.org/blog/wp-content/uploads/2013/07/Fishing-Game.pdf) and [rules](http://www.molleindustria.org/blog/wp-content/uploads/2013/07/Fishing-Game-Rules.pdf).
+Game [props](http://www.molleindustria.org/blog/wp-content/uploads/2013/07/Fishing-Game.pdf) and [rules](fishery.md).
 
 
-# Reading list
+# Food for thought
 
-[Thinking in Systems](http://www.chelseagreen.com/thinking-in-systems) by Donella Meadows
+[Thinking in Systems](http://www.chelseagreen.com/thinking-in-systems) by Donella Meadows.

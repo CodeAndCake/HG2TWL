@@ -1,4 +1,4 @@
-### TODO
+<!--### TODO
 
 - [x] Tech? No tech
 - [x] Can you trade tech for bees? Nope.
@@ -6,7 +6,9 @@
 - [ ] We also have beeswax, pesticides, sting, pollen, nectar..
 - [x] *Nectar cards*? Nectar and pollen are bees' food. In literal terms, these would be *extraction power* cards. We can have one nectar card which gives you *competitive advantage*: the right to start a turn first.
 - [x] Queen - worker - drones
-- [ ] scarce harvest?
+- [ ] scarce harvest?-->
+
+![](beesness-detail.png)
 
 # Open Beesness
 
@@ -43,6 +45,8 @@ Worker bees	| Self-explanatory
 Drones			| Military?
 Queens			| Growth?
 Nectar card	| Competitive advantage
+
+<!--![](beesness-versions.png)-->
 
 #### What other metaphors can you think of?
 

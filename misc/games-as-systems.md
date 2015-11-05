@@ -2,7 +2,7 @@
 
 From [Designing Games to Understand Complexity](http://www.molleindustria.org/blog/designing-games-to-understand-complexity)
 
-> Some issues seem to have way too many *moving parts* to be reduced to personal stories or linear cause-and-effect relationships. That’s where games and simulations can help! By playing and making games we can take a step out of the social systems we inhabit, conceptualise them as a whole, identify the conflicting forces in play, and envision better **systems**.
+> Some issues seem to have way too many *moving parts* to be reduced to personal stories or linear cause-and-effect relationships. That's where games and simulations can help! By playing and making games we can take a step out of the social systems we inhabit, conceptualise them as a whole, identify the conflicting forces in play, and envision better **systems**.
 
 ### What are **systems**?
 

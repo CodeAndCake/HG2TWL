@@ -3,11 +3,11 @@
 - [ ] Review Web literacies
 - [ ] Review [I do and I understand](http://blog.ncase.me/i-do-and-i-understand/) 
 
-# Hacking games to teach Web Literacy
+# Learning by <del>playing</del> making games
 
-Are you a *gamer*? How about becoming a **game designer** for a couple of hours?
+Do you play games? How about making games for a couple of hours?
 
-In this workshop you will **hack board games** (think Monopoly) with a new theme: *Web Literacy*.
+In this practical workshop you will learn how to **hack analog games** (think Monopoly) to explore *Web Literacy*.
 
 By the end, you will have a **playable prototype** of your new game, and a *workshop idea* to use in your classroom!
 

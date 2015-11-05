@@ -13,11 +13,11 @@ By the end, you will have a **playable prototype** of your new game, and a *work
 
 ### Plan
 
-1. [What is *hacking*?](#what-is-hacking)
-* [Why are we hacking games?](#why-games)
-* [How does one hack a game?](#how-does-one-hack-a-game)
-* [Why board games?](#why-board-games)
-* [Let's hack a board game!](#lets-hack-a-board-game)
+1. [What is **hacking**?](#what-is-hacking)
+* [Why are we hacking **games**?](#why-games)
+* [**How** does one hack a game?](#how-does-one-hack-a-game)
+* [Why **analog** games?](#why-analog-games)
+* [Let's hack a **board game**!](#lets-hack-a-board-game)
 * Web Lit 
 
 
@@ -156,19 +156,19 @@ Zero-sum game: wins for the winner are equal to the losses for the loser
 	Turning the original game into something that plays differently, even though it may look similar.
 
 
-### Why **board games**?
+### Why **analog games**?
 
 [![](assets/escape-the-bullies.jpg)](https://medium.com/@baddeo/every-child-is-a-game-designer-982d15aed199)
 
 1. You don't need to *code*. And even if you can code, game design starts from **sketching, visualising, paper-prototyping**.  
   
 	Even *videogames* have to be designed as **rule systems** before becoming software.
-* The process of designing a board game is more collaborative and accessible.  
+* The process of designing an analog game is more collaborative and accessible.  
   
 	All team members can throw ideas on the table, move pieces of paper around and **think together**.
 * 	In videogames rules and mechanics are often *hidden* from the player(s), who delegate(s) the game engine to enforce them.  
   
-	With board games, players are trained to keep an eye on each other, and rules are being *interpreted* by their brains all the time while playing.  
+	With analog games, players are trained to keep an eye on each other, and rules are being *interpreted* by their brains all the time while playing.  
   
 	Board games can foster **computational thinking**, according to [this paper](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1138&context=itls_facpub).
 

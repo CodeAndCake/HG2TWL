@@ -1,7 +1,7 @@
-- [x] Analyse `Fishery`
+<!--- [x] Analyse `Fishery`
 - [x] Prototype `Open Beesness`
-- [ ] Review Web literacies
-- [ ] Review [I do and I understand](http://blog.ncase.me/i-do-and-i-understand/) 
+- [x] Review Web literacies
+- [x] Review [I do and I understand](http://blog.ncase.me/i-do-and-i-understand/) -->
 
 # Learning by <del>playing</del> making games
 
@@ -17,13 +17,24 @@ By the end, you will have a **playable prototype** of your new game, and a *work
 * [Why are we hacking **games**?](#why-games)
 * [**How** does one hack a game?](#how-does-one-hack-a-game)
 * [Why **analog** games?](#why-analog-games)
-* [Let's hack a **board game**!](#lets-hack-a-board-game)
-* Web Lit 
-
+* [Let's play a game **critically**](#lets-play-a-game-critically)
+* [**Web** Literacy](#web-lit) 
+* [Let's hack an **analog game**!](#lets-hack-a-board-game)
 
 ### What is **hacking**?
 
 <!-- Is this your first time at MozFest? How many times have you heard the word hacker / hacking today? You will hear it a few times throughout the festival.. -->
+
+<!-- 
+Quick show of hands:
+ 
+* How many of you would describe themselves as educators?
+* Makers / creatives?
+* Designers? 
+* Technologists?
+* Hackers?
+
+-->
 
 [![](assets/hacked.jpg)](https://www.google.co.uk/search?q=hacking&source=lnms&tbm=isch&sa=X&ei=CZguVeynIIOqafWlgLAK&ved=0CAcQ_AUoAQ&biw=1379&bih=782#q=hacking&tbas=0&tbm=isch&tbs=isz:l)
 
@@ -46,6 +57,8 @@ A hacker is intellectually curious, a critical thinker who is not afraid of subv
 Our challenge as educators today is to help students become the *hackers*, not the mere *consumers*, of technology.
 
 <!-- This is what MozFest is about -->
+
+If you're uncomfortable with the term `hacking`, then you can replace it with `remixing` and that will do.
 
 
 ### Why **games**?
@@ -114,7 +127,7 @@ Some ideas:
 * How about changing the number of **players**? 
 * What if you introduce new **rules**? 
 * Who says you can only use your hands? What about the rest of the body?
-* Who says you can only use visual signs? How about noises, or smells?
+* Who says you can only use visual signs? How about **noises** or smells?
 * What do you **know** about the other player's strategy?
 * Is there a **strategy** to win this game?
 * What if you change the **goal** of the game?
@@ -172,13 +185,102 @@ Zero-sum game: wins for the winner are equal to the losses for the loser
   
 	Board games can foster **computational thinking**, according to [this paper](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1138&context=itls_facpub).
 
+### Let's play a game **critically**!
 
-### Let's hack a board game!
+<!-- > Don’t look at the **players**, look at the **rules** of the game.-->
+
+Games and simulations can simplify and mirror certain aspects of real world systems while maintaining their *dynamic properties*.
+
+When we study a game as a system, we can learn about its rules and its components, but certain dynamics and **patterns** will emerge only when the system is **in motion**. That is, when the game is being played.
+
+Let's split up in groups, each playing one of these games **critically**!
+
+1. **Open Beesness**
+
+	[![](beesness/beesness-detail.png)](beesness)
+* **Code Monkey Island**
+
+	[![](http://codemonkeyplanet.com/images/product-7.jpg)](http://codemonkeyplanet.com/)
+* **Bits & Bytes**
+
+	[![](http://www.bitsandbytes.cards/wp-content/uploads/2014/02/BitsBytesCards-e1417106431374.jpg)](http://www.bitsandbytes.cards/)
+
+#### Analyse the game as a ***system*** 
+
+The most crucial aspect of all systems are feedbacks.
+
+Now, in common usage feedback has become a synonym for *comment* or *suggestion*.
+
+Technically speaking a feedback is an **output** that is fed back to the **input** and **conditions** it.
+
+What **feedback loops** can you spot in the game we just played?
+
+* **Balancing loop**   
+  
+	For example: flower growth is balancing the loss from picking.
+
+* **Reinforcing loop**   
+  
+	Winners keep on winning.. this is built into many games (Monopoly, Chess, Settlers of Catan, Risk) because we want games to reach an end with winners and losers.   
+  
+	Can you think of ways to counter **reinforcing loops**, both in games and IRL? 
+
+* **Escalation**  
+  
+	If a player decides to grow the colony (or invest in drones), the other players are committed to match the effort or even to try to exceed it.  
+  
+	What are the possible way out of escalation as a system trap?
+
+	<!--Some examples:
+	-Limiting the rewards (antitrust)
+	-Balancing systems (taxes, affirmative action)
+	-Levelling the competition (debt cancellation, tax inheritance, meritocracy and access)-->
+
+* What about another system trap: the **tragedy of the commons**?
 
 
+### Let's **hack** an analog game!
+
+1. Hack its *rules* and/or *components*.
+* Play-test your hacked versions!
+
+<!-- to prevent problematic trends to happen -->
 
 ### Web Lit
 
+#### The problem
+
+> Since the mid-1990s more and more products, services and scenes from everyday life have moved online. The Open Web that Mozilla believes in so strongly is now **under attack from a variety of forces**.
+
+> From the [Mozilla Webmaker white paper](https://mozilla.github.io/webmaker-whitepaper/) 
+
+Can you make a game that lets you play with these conflicting forces?
+
+<!--
+
+* commercial silos
+* elegant consumption
+
+-->
+
+#### What is Web Literacy?
+
+> The DIY potential for **connected**, **participatory**, **improvisational learning** requires new skills, what many are calling new *literacies*.
+
+> Just what is it that people should be getting better at to avoid being stuck in the trap of *elegant consumption*?
+
+> Web Literacy is the skills and competencies needed for reading, writing, and participating on the Web.
+
+<!--![](https://mozilla.github.io/webmaker-whitepaper/assets/img/weblitmap-1.1.svg)-->
+
+[![](assets/web-literacy-map.png)](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)
+
+<!-- [Mozilla Web Literacy](https://teach.mozilla.org/teach-like-mozilla/web-literacy/) -->
+
+Couple of ideas:
+
+* Can you hack a game that lets players **explore** the Web Literacy map, or parts of it?
+* Can you make a game that **facilitates conversations** around the skills in the Web Lit map?
 
 
 ### License

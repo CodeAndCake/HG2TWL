@@ -195,3 +195,4 @@ Every turn (month):
 
 * Different types of flowers?
 * What happens when there are no flowers left? Declare a winner, everybody loses, something else?
+* Bankruptcy?

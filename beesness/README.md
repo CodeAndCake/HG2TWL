@@ -173,10 +173,6 @@ Every turn (month):
 	For each 2 remaining flowers, add 1 flower to the garden.
 
 	> For example: if there are 9 flowers left, add 4.
-	
-	For each colony, add 1 flower to the garden.
-
-	> For example: if there are 4 players, add 4.
 7. **End of the month**..
 
 	Move the month marker to the next space to keep track of the turns.
@@ -189,6 +185,11 @@ Every turn (month):
   
 	For each colonial card, read its running cost and pay that amount in honey to the bank. -->
 
+<!--
+	
+	For each colony, add 1 flower to the garden.
+
+	> For example: if there are 4 players, add 4. -->
 
 ### Hackable ideas
 

@@ -48,7 +48,7 @@ In other words, the way a system actually works and the outcome it produces, may
 
 > On the other hand a progressive minded person is more likely to see crime within an encompassing system of inequality which, arguably, includes the prison system as well.
 
-###  Don’t look at the **players**, look at the **rules** of the game.
+### Don’t look at the **players**, look at the **rules** of the game.
 
 > We know the rules and the components but certain dynamics and patterns emerge only when the system is **in motion**, when it’s running or it’s being played.
 
@@ -90,7 +90,7 @@ Can you think of other balancing loops?
 
 > This happen when the winner of a competition are rewarded with the means to win again.
 
-> This system archetype is built-in in many games (Monopoly, Chess, Settlers of Catan, Risk) because we want games to reach an end with winners and losers.
+> This system archetype is built into many games (Monopoly, Chess, Settlers of Catan, Risk) because we want games to reach an end with winners and losers.
 
 Can you think of ways to counter reinforcing loops, both in games and IRL? 
 
@@ -105,7 +105,7 @@ Can you think of ways to counter reinforcing loops, both in games and IRL?
 
 ![](http://www.molleindustria.org/blog/wp-content/uploads/2013/07/escalation.png)
 
-> What are the possible way out to escalation as a system trap?
+> What are the possible way out of escalation as a system trap?
 
 * Defeat of one player
 * De-escalation
@@ -118,8 +118,7 @@ Can you think of ways to counter reinforcing loops, both in games and IRL?
 
 ![](http://www.molleindustria.org/blog/wp-content/uploads/2013/07/overfishing.png)
 
-> However in time of scarcity, when you are running out of fish, the market can’t get flooded.
-So there’s a great temptation to extract the remaining resources for higher gain.
+> However in time of scarcity, when you are running out of fish, the market can’t get flooded. So there’s a great temptation to extract the remaining resources for higher gain.
 
 > This other reinforcing feedback loop becomes dominant, you are awarded for doing more of the same.
 

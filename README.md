@@ -19,7 +19,7 @@ By the end, you will have a **playable prototype** of your new game, and a *work
 * [Why **analog** games?](#why-analog-games)
 * [Let's play a game **critically**](#lets-play-a-game-critically)
 * [**Web** Literacy](#web-lit) 
-* [Let's hack an **analog game**!](#lets-hack-a-board-game)
+* [Let's hack an **analog game**!](#lets-hack-an-analog-game)
 
 ### What is **hacking**?
 
@@ -112,7 +112,7 @@ Games are pretty good at **simulating complex systems**, and making them playabl
 > By making games we can take a step out of the social systems we inhabit, conceptualise them as a whole, identify the conflicting forces in play, and envision better **systems**.
 
 > [Designing games to understand complexity](misc/games-as-systems.md) by Paolo Pedercini
-
+c
 
 ### How does one **hack a game**?
 

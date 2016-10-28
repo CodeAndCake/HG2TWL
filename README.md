@@ -1,11 +1,17 @@
-# Learning by <del>playing</del> making games
+# Learning by ~~playing~~ making games
 
-Do you play games? How about making games for a couple of hours?
+### Nice to meet you!
 
-In this practical workshop you will learn how to **hack analog games** (think Monopoly) to explore *Web Literacy*.
+* Who are you?
+* Why are you here?
 
-By the end, you will have a **playable prototype** of your new game, and a *workshop idea* to use in your classroom!
+### Why are we doing this?
 
+This workshop is about **making games to understand systems** (including Web Literacy). It's about deconstructing games critically and reassembling them with an inquisitive mindset. 
+
+The goal of this workshop is not to come up with game ideas, but rather **game-making workshop ideas**, which you can use to facilitate the learning of a theme / skill (such as Web Lit).
+
+<!--
 ### Plan
 
 1. [What is **hacking**?](#what-is-hacking)
@@ -15,27 +21,16 @@ By the end, you will have a **playable prototype** of your new game, and a *work
 * [Let's play a game **critically**](#lets-play-a-game-critically)
 * [**Web** Literacy](#web-lit) 
 * [Let's hack an **analog game**!](#lets-hack-an-analog-game)
+-->
 
-### What is **hacking**?
+
+# 1. Hacking...
 
 <!-- Is this your first time at MozFest? How many times have you heard the word hacker / hacking today? You will hear it a few times throughout the festival.. -->
 
-<!-- 
-Quick show of hands:
- 
-* How many of you would describe themselves as educators?
-* Makers / creatives?
-* Designers? 
-* Technologists?
-* Hackers?
-
--->
-
 [![](assets/hacked.jpg)](https://www.google.co.uk/search?q=hacking&source=lnms&tbm=isch&sa=X&ei=CZguVeynIIOqafWlgLAK&ved=0CAcQ_AUoAQ&biw=1379&bih=782#q=hacking&tbas=0&tbm=isch&tbs=isz:l)
 
-<!--#### What does hacking mean to you?-->
-
-#### Can we understand hacking as a **neutral**, or even **positive** practice? 
+#### Can we understand hacking as a *neutral*, or even *positive* practice? 
 
 Hacking intended as the practice of *modifying* something, possibly to *improve* it.
 
@@ -43,73 +38,34 @@ Hacking intended as the practice of *modifying* something, possibly to *improve*
 
 > [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html) by Mackenzie Wark
 
-#### A hacker practices creativity as **hacking the new out of the old**
-
-<!--#### In this workshop we're going to be **hackers**-->
+#### A hacker practices creativity as *hacking the new out of the old*
 
 A hacker is intellectually curious, a critical thinker who is not afraid of subverting systems to her own needs, responding to the principles of the communities she belongs to.
 
-Our challenge as educators today is to help students become the *hackers*, not the mere *consumers*, of technology.
-
-<!-- This is what MozFest is about -->
-
-If you're uncomfortable with the term `hacking`, then you can replace it with `remixing` and that will do.
+In that sense, our challenge as educators today is to help learners become the *hackers*, instead of the mere *consumers*, of technology.
 
 
-### Why **games**?
-
-[![](assets/confucius.png)](http://blog.ncase.me/i-do-and-i-understand)
-
-<!-- > I hear and I forget.
-
-> I see and I remember.
-
-> **I do and I understand.**
-
-> Confucius-->
-
-I'm a bit fan of *learning by doing*. More precisely, Seymour Papert's [constructionism](https://en.wikipedia.org/wiki/Constructionism_(learning_theory)).
-
-> Learning can happen most effectively when people are active in *making tangible objects* in the real world.
-
-#### Learning by <del>playing</del> making games
+# 2. Hacking games...
 
 Young people are avid *consumers* of games, especially video games. 
 
-<!-- 
-
-#### Gamifuckation 
-
-There's a whole “movement” devoted to pouring game mechanics into non-game activities and to spark some “fun” and “engagement” in dull subjects or inconvenient tasks, but this is not a workshop about gamification.
-
--->
-
 **Making** (as opposed to consuming) games is the key. 
 
+[![](assets/confucius.png)](http://blog.ncase.me/i-do-and-i-understand)
+
+I'm a big fan of *learning by doing*. More precisely, Seymour Papert's [constructionism](https://en.wikipedia.org/wiki/Constructionism_(learning_theory)).
+
+> Learning can happen most effectively when people are active in *making tangible objects* in the real world.
+
+<!--
 To make a game you need to *research* the subject of your game, you need to **conceptualise a system** of players, resources and rules, and then define how they all interact. 
 
 The process involves *planning*, *testing*, *evaluating* feedback and *iterating* your prototype. 
 
 And once you've made a game, you'll start playing other games *critically*.
+-->
 
-#### Games are **systems** of rules
-
-Linear media (such as films and novels) typically create meaning through **storytelling**. 
-
-![](assets/story-ball.png)
-
-Yet some issues seem to have way too many **moving parts** to be reduced to personal stories or linear cause-and-effect relationships. That's where games and simulations can help!
-
-Games create meaning through the **dynamic interaction** between game rules, game resources and players (what game designers call *gameplay*).
-
-Games are pretty good at **simulating complex systems**, and making them playable!
-
-> By making games we can take a step out of the social systems we inhabit, conceptualise them as a whole, identify the conflicting forces in play, and envision better **systems**.
-
-> [Designing games to understand complexity](misc/games-as-systems.md) by Paolo Pedercini
-c
-
-### How does one **hack a game**?
+## How does one *hack a game*?
 
 ![](assets/rock-paper-scissors.jpg)
 
@@ -117,19 +73,16 @@ Let's hack [rock-paper-scissors](http://en.wikipedia.org/wiki/Rock-paper-scissor
 
 Some ideas:
 
-* What if you **remove** one element? 
-* What if you **add** one element?
-* How about changing the number of **players**? 
-* What if you introduce new **rules**? 
-* Who says you can only use your hands? What about the rest of the body?
-* Who says you can only use visual signs? How about **noises** or smells?
-* What do you **know** about the other player's strategy?
+* **Add** or **remove** one element
+* **Rename** the elements
+* Change the **number of players** 
+* Change the **rules** 
+* Use the rest of the **body** (not just hands)
+* Use **noises** or smells (not only visual signs)
 * Is there a **strategy** to win this game?
+* What do you **know** about the other player's strategy?
 * What if you change the **goal** of the game?
-* How about turning it into a **collaborative** game? 
-* How about **renaming** the elements? 
-* Can you think of a different **story** (narrative) for this game?
-* What **messages** may the gameplay communicate?
+* Can you turn it into a **collaborative** game? 
 
 <!-- 
 
@@ -152,113 +105,96 @@ Zero-sum game: wins for the winner are equal to the losses for the loser
 
 -->
 
-#### What can we hack? 
+### What can we hack? 
 
-1. The **skin** of the game. 
+One way to understand games is to analyse their **mechanics**, **dynamics** and **aesthetics** (aka the [MDA framework](assets/mda.pdf)
 
-	Easy, but a we're just scratching the surface.
-* The **gameplay**, that is the *dynamic relationship* between game rules, game resources and players.
+**Mechanics** are the *rules* by which a game should work.
 
-	More fun!   
-  
-	Turning the original game into something that plays differently, even though it may look similar.
+Dynamics and aesthetics are the outcomes a game produces. In particular, **dynamics** are patterns of play reinforced or encouraged by a game's mechanic (what players tend to do in order to reach their game goals); **aesthetics** are what the player experiences.
 
+For example, in *Chess*: 
 
-### Why **analog games**?
+* the mechanic of putting a king into check limits that king's owner to actions that get the king out of check
+* a typical dynamic is that players start with pawns and shift their focus on other elements as the board clears and moves become more sweeping and powerful
+* the aesthetics are those of a medieval, open battle between two armies, where players take the role of commanders trying to outsmart each other
+ 
+**Mechanics give rise to dynamics, which in turn shape the players' choices and experiences.**
 
-[![](assets/escape-the-bullies.jpg)](https://medium.com/@baddeo/every-child-is-a-game-designer-982d15aed199)
+As game makers, we can hack the rules of the game, but we can't control how players will interpret those rules and whether they'll have fun playing. Like *policy-makers*, we can only encourage / enforce certain behaviours, but we can't be sure people will behave like we envisioned. 
 
-1. You don't need to *code*. And even if you can code, game design starts from **sketching, visualising, paper-prototyping**.  
-  
-	Even *videogames* have to be designed as **rule systems** before becoming software.
-* The process of designing an analog game is more collaborative and accessible.  
-  
-	All team members can throw ideas on the table, move pieces of paper around and **think together**.
-* 	In videogames rules and mechanics are often *hidden* from the player(s), who delegate(s) the game engine to enforce them.  
-  
-	With analog games, players are trained to keep an eye on each other, and rules are being *interpreted* by their brains all the time while playing.  
-  
-	Board games can foster **computational thinking**, according to [this paper](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1138&context=itls_facpub).
+We create a **system of mechanics** but we do not directly create the player's experience. 
 
-### Let's play a game **critically**!
+### Games as *systems*
 
-<!-- > Don’t look at the **players**, look at the **rules** of the game.-->
+Another way to understand games is to analyse them as systems.
 
-Games and simulations can simplify and mirror certain aspects of real world systems while maintaining their *dynamic properties*.
+We often use the word `system` to talk about very different things: the solar system, the operating system, the prison system, the ecosystem.
 
-When we study a game as a system, we can learn about its rules and its components, but certain dynamics and **patterns** will emerge only when the system is **in motion**. That is, when the game is being played.
+A system is a **set of interconnected things** (or elements, or components) that form an unified **whole**. To use a now common catchphrase:
 
-Let's split up in groups, each playing one of these games **critically**!
+> The whole is more than the sum of its parts.
 
-1. **Open Beesness**
+In a system elements have **interactions** and / or **interdependencies**.
 
-	[![](beesness/beesness-detail.png)](beesness)
-* **Code Monkey Island**
+![](assets/bee_flower.png)
 
-	[![](http://codemonkeyplanet.com/images/product-7.jpg)](http://codemonkeyplanet.com/)
-* **Bits & Bytes**
+You can't understand an ecosystem just by analysing one part of it (eg: only the bees). Likewise, you can't make sense of human systems just by looking at the behaviour of individual *players*.
 
-	[![](http://www.bitsandbytes.cards/wp-content/uploads/2014/02/BitsBytesCards-e1417106431374.jpg)](http://www.bitsandbytes.cards/)
+Games are often inspired by real world systems, which they generally simplify to make them playable.
 
-#### Analyse the game as a ***system*** 
+> By making games we can take a step out of the social systems we inhabit, conceptualise them as a whole, identify the conflicting forces in play, and envision better **systems**.
+
+> [Designing games to understand complexity](misc/games-as-systems.md) by Paolo Pedercini
+
+Through game-hacking, we can promote system literacy.
+
+### Feedbacks
 
 The most crucial aspect of all systems are feedbacks.
 
-Now, in common usage feedback has become a synonym for *comment* or *suggestion*.
+We commonly use `feedback` as a synonym for *comment* or *suggestion*.
 
 Technically speaking a feedback is an **output** that is fed back to the **input** and **conditions** it.
 
-What **feedback loops** can you spot in the game we just played?
+Types of **feedback loops**: 
 
 * **Balancing loop**   
-  
-	For example: flower growth is balancing the loss from picking.
+  	
+  	A balancing loop attempts to move the current state to a desired state.
+  	
+	We can spot this in nature, where predators and preys populations balance each other.
+	
+	*Demand and supply* is another example of a balancing loop.
 
 * **Reinforcing loop**   
   
-	Winners keep on winning.. this is built into many games (Monopoly, Chess, Settlers of Catan, Risk) because we want games to reach an end with winners and losers.   
+  	A reinforcing loop is one in which an action produces a result which influences more of the same action, resulting in growth or decline.
+  	
+	Also known as *system trap*, this type of loop is built into many games (Monopoly, Chess, Settlers of Catan, Risk) because we want games to reach an end with winners and losers. 
+	
+	Sometimes reinforcing loops lead to **escalation** (e.g. when you argue with someone) or to the **tragedy of the commons** (the depletion of a shared resource by individuals, acting independently and rationally according to self-interest, despite their understanding that depleting the common resource is contrary to the collective long-term interests). 
   
 	Can you think of ways to counter **reinforcing loops**, both in games and IRL? 
-
-* **Escalation**  
-  
-	If a player decides to grow the colony (or invest in drones), the other players are committed to match the effort or even to try to exceed it.  
-  
-	What are the possible way out of escalation as a system trap?
-
-	<!--Some examples:
+	
+	<!-- 
 	-Limiting the rewards (antitrust)
 	-Balancing systems (taxes, affirmative action)
-	-Levelling the competition (debt cancellation, tax inheritance, meritocracy and access)-->
+	-Levelling the competition (debt cancellation, tax inheritance, meritocracy and access)
+	-->
 
-* What about another system trap: the **tragedy of the commons**?
 
+# 3. Hacking games to teach Web Literacy
 
-### Let's **hack** an analog game!
+Now that you dipped your toes into *game hacking* and *system thinking*, how can we apply these to Web Literacy?
 
-1. Hack its *rules* and/or *components*.
-* Play-test your hacked versions!
-
-<!-- to prevent problematic trends to happen -->
-
-### Web Lit
-
-#### The problem
+### The problem
 
 > Since the mid-1990s more and more products, services and scenes from everyday life have moved online. The Open Web that Mozilla believes in so strongly is now **under attack from a variety of forces**.
 
 > From the [Mozilla Webmaker white paper](https://mozilla.github.io/webmaker-whitepaper/) 
 
-Can you make a game that lets you play with these conflicting forces?
-
-<!--
-
-* commercial silos
-* elegant consumption
-
--->
-
-#### What is Web Literacy?
+### What is Web Literacy?
 
 > The DIY potential for **connected**, **participatory**, **improvisational learning** requires new skills, what many are calling new *literacies*.
 
@@ -266,16 +202,9 @@ Can you make a game that lets you play with these conflicting forces?
 
 > Web Literacy is the skills and competencies needed for reading, writing, and participating on the Web.
 
-<!--![](https://mozilla.github.io/webmaker-whitepaper/assets/img/weblitmap-1.1.svg)-->
+[![](assets/web-literacy-map.png)](https://learning.mozilla.org/en-US/web-literacy)
 
-[![](assets/web-literacy-map.png)](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)
-
-<!-- [Mozilla Web Literacy](https://teach.mozilla.org/teach-like-mozilla/web-literacy/) -->
-
-Couple of ideas:
-
-* Can you hack a game that lets players **explore** the Web Literacy map, or parts of it?
-* Can you make a game that **facilitates conversations** around the skills in the Web Lit map?
+Let’s brainstorm: pick your favourite verb from the Web Literacy map or use the [game idea generator](http://bit.ly/weblit-hacktivity-ideas-generator) to come up with a **game-hacking idea**, then explain to the rest of us how you envision it working with a group of learners.
 
 
 ### License

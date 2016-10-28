@@ -6,7 +6,7 @@ From [Designing Games to Understand Complexity](http://www.molleindustria.org/bl
 
 ### What are **systems**?
 
-> We often use the terms `system` to refer to a number of very different things, natural, technological or social, the solar system, the operating system, the prison system, the eco system.
+> We often use the term `system` to refer to a number of very different things, natural, technological or social: the solar system, the operating system, the prison system, the eco system.
 
 <!--Without spending too much time, can anyone think of a simple **definition** of system?-->
 

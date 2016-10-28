@@ -1,8 +1,3 @@
-<!--- [x] Analyse `Fishery`
-- [x] Prototype `Open Beesness`
-- [x] Review Web literacies
-- [x] Review [I do and I understand](http://blog.ncase.me/i-do-and-i-understand/) -->
-
 # Learning by <del>playing</del> making games
 
 Do you play games? How about making games for a couple of hours?

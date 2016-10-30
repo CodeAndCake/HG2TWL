@@ -1,3 +1,9 @@
+<!--
+- Outside of WL, what other systems would you like to teach through game-hacking?
+- Make it as interactive as possible, ask lots of questions
+- Use Beesness as a case study, keep prompting people on how they would apply this to their teaching practice.
+--> 
+
 # Learning by ~~playing~~ making games
 
 ### Nice to meet you!
@@ -7,9 +13,11 @@
 
 ### Why are we doing this?
 
-This workshop is **for educators** who want to **use games to understand systems**. It's about deconstructing games critically and reassembling them with an inquisitive mindset. 
+There's a movement devoted to sparking fun and engagement in dull subjects or inconvenient tasks, but this is **not a session about gamification**. The aim here is not to make maths (or any other subject) fun by turning it into a game.
 
-The goal of this workshop is not to come up with game ideas, but rather **game-making workshop ideas**, which you can use to facilitate the learning of a theme / skill.
+Instead, I want to share my experience using **game-making as a teaching method**. I spent some time asking students to make games about something they wanted to (or had to) learn. I believe that by making games, students gain valuable skills (researching, planning, prototyping, testing...) and the conceptual tools to make sense of the complex world around them (aka *system thinking*).  
+
+The goal of this session is to come up with **game-making workshop ideas**, which **educators like you** can use to facilitate the learning of a theme / skill.
 
 
 # 1. Hacking...
@@ -211,7 +219,7 @@ We commonly use `feedback` as a synonym for *comment* or *suggestion*.
 
 # 3. Hacking games to teach Web Literacy
 
-Now that you dipped your toes into *game hacking* and *system thinking*, how can we apply these to Web Literacy?
+Now that we dipped our toes into *game hacking* and *system thinking*, how can we apply these to Web Literacy?
 
 ### The problem
 
@@ -238,7 +246,3 @@ Let’s brainstorm: pick your favourite verb from the Web Literacy map or use th
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0)
 
-
-- Outside of WL, what other systems would you like to teach through game-hacking?
-- Make it as interactive as possible, ask lots of questions
-- Use Beesness as a case study, keep prompting people on how they would apply this to their teaching practice.

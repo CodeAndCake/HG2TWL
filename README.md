@@ -177,7 +177,7 @@ The working title is *Beesness*.
 
 ![](assets/beesness-promo.jpg)
 
-While the game mechanics are (still) clunky and the rules a little foggy, my preliminary tests with primary school children indicate that it can be an effective way to introduce tough questions like *How does our economy work?* and *What can we do to avoid running our of flowers?*
+While the game mechanics are (still) clunky and the rules a little foggy, my preliminary tests with primary school children indicate that it can be an effective way to introduce tough questions like *How does our economy work?* and *What can we do to avoid running out of flowers?*
 
 ![](assets/beesness-playtesting.jpg)
 

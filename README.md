@@ -241,8 +241,7 @@ Now that we dipped our toes into *game hacking* and *system thinking*, how can w
 
 In small teams:
 
-1. Play with the [game-hacking idea generator](http://bit.ly/weblit-hacktivity-ideas-generator) to ... 
-2. ... come up with a **game-hacking workshop idea**! 
+1. Play with the [game-hacking idea generator](http://bit.ly/weblit-hacktivity-ideas-generator) to come up with a **game-hacking workshop idea**! 
 3. Explain to the rest of us how you envision it working with a group of learners.
 4. Share your idea on the [session etherpad](https://public.etherpad-mozilla.org/p/mozfest-2016-hacking-games-to-teach-web-literacy).
 

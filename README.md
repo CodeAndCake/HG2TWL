@@ -15,7 +15,9 @@
 
 There's a movement devoted to sparking fun and engagement in dull subjects or inconvenient tasks, but this is **not a session about gamification**. The aim here is not to make maths (or any other subject) fun by turning it into a game.
 
-Instead, I want to share my experience using **game-making as a teaching method**. I spent some time asking students to make games about something they wanted to (or had to) learn. I believe that by making games, students gain valuable skills (researching, planning, prototyping, testing...) and the conceptual tools to make sense of the complex world around them (aka *system thinking*).  
+Instead, I want to share my experience using **game-making as a teaching method**. I spent some time asking students to make games about something they wanted to (or had to) learn. 
+
+I believe that by making games, students gain valuable skills (researching, planning, prototyping, testing...) and the conceptual tools to make sense of the complex world around them (aka *system thinking*).  
 
 The goal of this session is to come up with **game-making workshop ideas**, which **educators like you** can use to facilitate the learning of a theme / skill.
 
@@ -26,7 +28,7 @@ The goal of this session is to come up with **game-making workshop ideas**, whic
 
 #### Can we understand hacking as a *neutral*, or even *positive* practice? 
 
-Hacking intended as the practice of *modifying* something, possibly to *improve* it.
+`Hacking` intended as the practice of *modifying* something, possibly to *improve* it.
 
 > Whatever code we hack, be it programming language, poetic language, math or music, curves or colourings, we create the possibility of new things entering the world. Not always great things, or even good things, but new things.
 
@@ -61,9 +63,9 @@ And once you've made a game, you'll start playing other games *critically*.
 
 ## How does one *hack a game*?
 
-![](assets/rock-paper-scissors.png)
-
 Let's hack [rock-paper-scissors](http://en.wikipedia.org/wiki/Rock-paper-scissors).
+
+[![](assets/rock-paper-scissors.png)](http://en.wikipedia.org/wiki/Rock-paper-scissors)
 
 Some ideas:
 
@@ -71,12 +73,11 @@ Some ideas:
 * **Rename** the elements
 * Change the **number of players** 
 * Change the **rules** 
-* Use the rest of the **body** (not just hands)
-* Use **noises** or smells (not only visual signs)
+* Use the whole **body** 
+* Use **noises** or **smells** 
 * Is there a **strategy** to win this game?
-* What do you **know** about the other player's strategy?
-* What if you change the **goal** of the game?
-* Can you turn it into a **collaborative** game? 
+* Change the **goal** of the game
+* Turn it into a **collaborative** game
 
 <!-- 
 
@@ -115,7 +116,7 @@ For example, in *Chess*
  
 **Mechanics shape dynamics, which in turn shape aesthetics.**
 
-As game makers, we can hack the rules of the game, but we can't control how players will interpret those rules and whether they'll have fun playing. Like *policy-makers*, we can only encourage / enforce certain behaviours, but we can't be sure people will behave like we envisioned. 
+As **game makers**, we can hack the rules of the game, but we can't control how players will interpret those rules and whether they'll have fun playing. Like **policy-makers**, we can only encourage / enforce certain behaviours, but we can't be sure people will behave like we envisioned. 
 
 We create a **system of mechanics** but we do not directly create the player's experience. 
 
@@ -190,31 +191,31 @@ We commonly use `feedback` as a synonym for *comment* or *suggestion*.
 
 ![](assets/feedback-loop.png)
 
-**Feedback loops** are a crucial aspect of all systems: 
+**Feedback loops** are a crucial aspect of all systems. 
 
-* **Balancing loops**   
+#### Balancing loops   
   	
-  	We can spot these in an ecosystem, where predators and preys populations balance each other.
+We can spot these in an ecosystem, where predators and preys populations balance each other.
 	
-	<!-- *Demand and supply* is another example of a balancing loop. -->
+<!-- *Demand and supply* is another example of a balancing loop. -->
 	
-	In *Beesness* the extraction of flowers is balanced by flowers re-planting at every turn.
+In *Beesness* the extraction of flowers is balanced by flowers re-planting at every turn.
 
-* **Reinforcing loops**   
-  
-  	A reinforcing loop is one in which an action produces a result which influences more of the same action, resulting in growth or decline. The *rich gets richer*, the *powerful gets more power* and so on.
+#### Reinforcing loops
+
+A reinforcing loop is one in which an action produces a result which influences more of the same action, resulting in growth or decline. The *rich gets richer*, the *powerful gets more power* and so on.
   	
-	Reinforcing loops are built into many games (*Monopoly*, *Chess*, *Settlers of Catan*, *Risk*) because we want games to have winners and losers. In *Beesness*, when a player starts growing their colony, they are compelled to keep growing it. 
+Reinforcing loops are built into many games (*Monopoly*, *Chess*, *Settlers of Catan*, *Risk*) because we want games to have winners and losers. In *Beesness*, when a player starts growing their colony, they are compelled to keep growing it. 
 	
-	Sometimes reinforcing loops lead to **escalation** (e.g. when you argue with someone) or to the **[tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)**. These two are also built into *Beesness*, and players are challenged to find solutions by hacking the game mechanics. 
+Sometimes reinforcing loops lead to **escalation** (e.g. when you argue with someone) or to the **[tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)**. These two are also built into *Beesness*, and players are challenged to find solutions by hacking the game mechanics. 
   
-	Can you think of ways to counter **reinforcing loops**, both in games and IRL? 
+Can you think of ways to counter **reinforcing loops**, both in games and IRL? 
 	
-	<!-- 
-	- Limiting the rewards (antitrust)
-	- Balancing systems (taxes, affirmative action)
-	- Levelling the competition (debt cancellation, tax inheritance, meritocracy and access)
-	-->
+<!-- 
+- Limiting the rewards (antitrust)
+- Balancing systems (taxes, affirmative action)
+- Levelling the competition (debt cancellation, tax inheritance, meritocracy and access)
+-->
 
 
 # 3. Hacking games to teach Web Literacy
@@ -248,7 +249,7 @@ In small teams:
 
 ### License
 
-[![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0)
+[![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0)
 

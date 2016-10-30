@@ -7,26 +7,12 @@
 
 ### Why are we doing this?
 
-This workshop is about **making games to understand systems** (including Web Literacy). It's about deconstructing games critically and reassembling them with an inquisitive mindset. 
+This workshop is **for educators** who want to **use games to understand systems**. It's about deconstructing games critically and reassembling them with an inquisitive mindset. 
 
-The goal of this workshop is not to come up with game ideas, but rather **game-making workshop ideas**, which you can use to facilitate the learning of a theme / skill (such as Web Lit).
-
-<!--
-### Plan
-
-1. [What is **hacking**?](#what-is-hacking)
-* [Why are we hacking **games**?](#why-games)
-* [**How** does one hack a game?](#how-does-one-hack-a-game)
-* [Why **analog** games?](#why-analog-games)
-* [Let's play a game **critically**](#lets-play-a-game-critically)
-* [**Web** Literacy](#web-lit) 
-* [Let's hack an **analog game**!](#lets-hack-an-analog-game)
--->
+The goal of this workshop is not to come up with game ideas, but rather **game-making workshop ideas**, which you can use to facilitate the learning of a theme / skill.
 
 
 # 1. Hacking...
-
-<!-- Is this your first time at MozFest? How many times have you heard the word hacker / hacking today? You will hear it a few times throughout the festival.. -->
 
 [![](assets/hacked.jpg)](https://www.google.co.uk/search?q=hacking&source=lnms&tbm=isch&sa=X&ei=CZguVeynIIOqafWlgLAK&ved=0CAcQ_AUoAQ&biw=1379&bih=782#q=hacking&tbas=0&tbm=isch&tbs=isz:l)
 
@@ -47,7 +33,7 @@ In that sense, our challenge as educators today is to help learners become the *
 
 # 2. Hacking games...
 
-Young people are avid *consumers* of games, especially video games. 
+Many of your students are avid *consumers* of games, especially video games. 
 
 **Making** (as opposed to consuming) games is the key. 
 
@@ -67,7 +53,7 @@ And once you've made a game, you'll start playing other games *critically*.
 
 ## How does one *hack a game*?
 
-![](assets/rock-paper-scissors.jpg)
+![](assets/rock-paper-scissors.png)
 
 Let's hack [rock-paper-scissors](http://en.wikipedia.org/wiki/Rock-paper-scissors).
 
@@ -105,41 +91,63 @@ Zero-sum game: wins for the winner are equal to the losses for the loser
 
 -->
 
-### What can we hack? 
+## What can we hack? 
 
 One way to understand games is to analyse their **mechanics**, **dynamics** and **aesthetics** (aka the [MDA framework](assets/mda.pdf)
 
-**Mechanics** are the *rules* by which a game should work.
+1. **Mechanics** are the *rules* of a game.
+* **Dynamics** what players tend to do in order to reach their game goals. 
+* **Aesthetics** are what players experience and feel while playing.
 
-Dynamics and aesthetics are the outcomes a game produces. In particular, **dynamics** are patterns of play reinforced or encouraged by a game's mechanic (what players tend to do in order to reach their game goals); **aesthetics** are what the player experiences.
+For example, in *Chess* 
 
-For example, in *Chess*: 
-
-* the mechanic of putting a king into check limits that king's owner to actions that get the king out of check
-* a typical dynamic is that players start with pawns and shift their focus on other elements as the board clears and moves become more sweeping and powerful
-* the aesthetics are those of a medieval, open battle between two armies, where players take the role of commanders trying to outsmart each other
+1. *Mechanics*: if your king is put into check, you are  forced the move it out of check
+* *Dynamics*: you may start your game with pawns, then as the board clears, shift your focus on more powerful elements (there isn't a rule that forces you to do that, but you may have noticed it's a better strategy)
+* *Aesthetics*: you play the role of a medieval commander, trying to outsmart your opponent in an open battle between two armies
  
-**Mechanics give rise to dynamics, which in turn shape the players' choices and experiences.**
+**Mechanics shape dynamics, which in turn shape aesthetics.**
 
 As game makers, we can hack the rules of the game, but we can't control how players will interpret those rules and whether they'll have fun playing. Like *policy-makers*, we can only encourage / enforce certain behaviours, but we can't be sure people will behave like we envisioned. 
 
 We create a **system of mechanics** but we do not directly create the player's experience. 
 
-### Games as *systems*
+### As educators ... 
+
+We control the *mechanics* of the learning environment (we can set the rules and promote certain behaviours), but we can't learn on behalf of others :) 
+
+It's a **conversation** and game-making can facilitate that.
+
+For example, [a couple of years ago](https://medium.com/@baddeo/every-child-is-a-game-designer-982d15aed199) we asked young people (12-16) to pick a game they play and *hack it* with new rules, new goals and new messages. 
+
+They kicked off by listing the *verbs* of their chosen game, and discussing the values that these verbs may convey.
+
+[![](assets/verbs.jpeg)](https://medium.com/@baddeo/every-child-is-a-game-designer-982d15aed199)
+
+Then they introduced a new set of verbs, so that their game would express their own messages and values.
+
+[![](assets/givenopoly.jpeg)](https://medium.com/@baddeo/every-child-is-a-game-designer-982d15aed199)
+
+Kids came up with great ideas, such as a game about bullying at school, and a hack of [Snake](https://en.wikipedia.org/wiki/Snake_(video_game)) which promotes healthy eating.
+
+[![](assets/escape-the-bullies.jpeg)](https://medium.com/@baddeo/every-child-is-a-game-designer-982d15aed199)
+
+You can find [more examples here](https://medium.com/@baddeo/every-child-is-a-game-designer-982d15aed199).
+
+## Games as *systems*
 
 Another way to understand games is to analyse them as systems.
 
-We often use the word `system` to talk about very different things: the solar system, the operating system, the prison system, the ecosystem.
+We often use the word `system` to talk about very different things: the solar system, the operating system, the prison system, the ecosystem...
 
-A system is a **set of interconnected things** (or elements, or components) that form an unified **whole**. To use a now common catchphrase:
+A system is a **set of interconnected things that work together to achieve something**. To use a common catchphrase:
 
 > The whole is more than the sum of its parts.
 
-In a system elements have **interactions** and / or **interdependencies**.
+In a system elements have **interactions** and **interdependencies**.
 
 ![](assets/bee_flower.png)
 
-You can't understand an ecosystem just by analysing one part of it (eg: only the bees). Likewise, you can't make sense of human systems just by looking at the behaviour of individual *players*.
+You can't understand an ecosystem just by analysing one part of it (eg: only a bee). Likewise, you can't make sense of human systems just by looking at the behaviour of individual *players*.
 
 Games are often inspired by real world systems, which they generally simplify to make them playable.
 
@@ -147,40 +155,57 @@ Games are often inspired by real world systems, which they generally simplify to
 
 > [Designing games to understand complexity](misc/games-as-systems.md) by Paolo Pedercini
 
-Through game-hacking, we can promote system literacy.
+**Through game-hacking, we can promote system literacy.**
 
-### Feedbacks
+So I prototyped a game about the system of our times: *capitalism*.
 
-The most crucial aspect of all systems are feedbacks.
+The working title is *Beesness*. 
+
+* As a player, you control a *bee colony*. 
+* All colonies operate in the *garden of Commons*. 
+* Throughout the game, you can deploy different *beesness models*: from converting flowers’ nectar into honey, to stealing other colonies’ honey, privatising flowers and other nasty moves.
+* Your goal is to have the most *honey* at the end of the year.
+
+![](assets/beesness-promo.jpg)
+
+While the game mechanics are (still) clunky and the rules a little foggy, my preliminary tests with primary school children indicate that it can be an effective way to introduce tough questions like *How does our economy work?* and *What can we do to avoid running our of flowers?*
+
+![](assets/beesness-playtesting.jpg)
+
+I presented kids with a paper-prototype and encouraged them to hack the game with new rules. They started negotiating *tweaks* and *fixes*, persuading each other and explaining how those changes would fit with the game logic.   
+
+### Feedback loops
 
 We commonly use `feedback` as a synonym for *comment* or *suggestion*.
 
-Technically speaking a feedback is an **output** that is fed back to the **input** and **conditions** it.
+[Technically speaking](https://en.wikipedia.org/wiki/Feedback) a feedback is the **output** of a system, which is fed back into the **input** and **conditions** it.
 
-Types of **feedback loops**: 
+![](assets/feedback-loop.png)
 
-* **Balancing loop**   
+**Feedback loops** are a crucial aspect of all systems: 
+
+* **Balancing loops**   
   	
-  	A balancing loop attempts to move the current state to a desired state.
-  	
-	We can spot this in nature, where predators and preys populations balance each other.
+  	We can spot these in an ecosystem, where predators and preys populations balance each other.
 	
-	*Demand and supply* is another example of a balancing loop.
+	<!-- *Demand and supply* is another example of a balancing loop. -->
+	
+	In *Beesness* the extraction of flowers is balanced by flowers re-planting at every turn.
 
-* **Reinforcing loop**   
+* **Reinforcing loops**   
   
-  	A reinforcing loop is one in which an action produces a result which influences more of the same action, resulting in growth or decline.
+  	A reinforcing loop is one in which an action produces a result which influences more of the same action, resulting in growth or decline. The *rich gets richer*, the *powerful gets more power* and so on.
   	
-	Also known as *system trap*, this type of loop is built into many games (Monopoly, Chess, Settlers of Catan, Risk) because we want games to reach an end with winners and losers. 
+	Reinforcing loops are built into many games (*Monopoly*, *Chess*, *Settlers of Catan*, *Risk*) because we want games to have winners and losers. In *Beesness*, when a player starts growing their colony, they are compelled to keep growing it. 
 	
-	Sometimes reinforcing loops lead to **escalation** (e.g. when you argue with someone) or to the **tragedy of the commons** (the depletion of a shared resource by individuals, acting independently and rationally according to self-interest, despite their understanding that depleting the common resource is contrary to the collective long-term interests). 
+	Sometimes reinforcing loops lead to **escalation** (e.g. when you argue with someone) or to the **[tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)**. These two are also built into *Beesness*, and players are challenged to find solutions by hacking the game mechanics. 
   
 	Can you think of ways to counter **reinforcing loops**, both in games and IRL? 
 	
 	<!-- 
-	-Limiting the rewards (antitrust)
-	-Balancing systems (taxes, affirmative action)
-	-Levelling the competition (debt cancellation, tax inheritance, meritocracy and access)
+	- Limiting the rewards (antitrust)
+	- Balancing systems (taxes, affirmative action)
+	- Levelling the competition (debt cancellation, tax inheritance, meritocracy and access)
 	-->
 
 
@@ -212,3 +237,8 @@ Let’s brainstorm: pick your favourite verb from the Web Literacy map or use th
 [![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0)
+
+
+- Outside of WL, what other systems would you like to teach through game-hacking?
+- Make it as interactive as possible, ask lots of questions
+- Use Beesness as a case study, keep prompting people on how they would apply this to their teaching practice.

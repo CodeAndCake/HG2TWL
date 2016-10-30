@@ -237,7 +237,14 @@ Now that we dipped our toes into *game hacking* and *system thinking*, how can w
 
 [![](assets/web-literacy-map.png)](https://learning.mozilla.org/en-US/web-literacy)
 
-Let’s brainstorm: pick your favourite verb from the Web Literacy map or use the [game idea generator](http://bit.ly/weblit-hacktivity-ideas-generator) to come up with a **game-hacking idea**, then explain to the rest of us how you envision it working with a group of learners.
+### Your turn 
+
+In small teams:
+
+1. Play with the [game-hacking idea generator](http://bit.ly/weblit-hacktivity-ideas-generator) to ... 
+2. ... come up with a **game-hacking workshop idea**! 
+3. Explain to the rest of us how you envision it working with a group of learners.
+4. Share your idea on the [session etherpad](https://public.etherpad-mozilla.org/p/mozfest-2016-hacking-games-to-teach-web-literacy).
 
 
 ### License

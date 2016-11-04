@@ -1,9 +1,3 @@
-<!--
-- Outside of WL, what other systems would you like to teach through game-hacking?
-- Make it as interactive as possible, ask lots of questions
-- Use Beesness as a case study, keep prompting people on how they would apply this to their teaching practice.
---> 
-
 # Learning by ~~playing~~ making games
 
 ### Nice to meet you!

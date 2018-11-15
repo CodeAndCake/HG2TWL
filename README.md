@@ -99,14 +99,14 @@ Zero-sum game: wins for the winner are equal to the losses for the loser
 One way to understand games is to analyse their **mechanics**, **dynamics** and **aesthetics** (aka the [MDA framework](assets/mda.pdf)
 
 1. **Mechanics** are the *rules* of a game.
-* **Dynamics** what players tend to do in order to reach their game goals. 
-* **Aesthetics** are what players experience and feel while playing.
+2. **Dynamics** what players tend to do in order to reach their game goals. 
+3. **Aesthetics** are what players experience and feel while playing.
 
 For example, in *Chess* 
 
 1. *Mechanics*: if your king is put into check, you are  forced the move it out of check
-* *Dynamics*: you may start your game with pawns, then as the board clears, shift your focus on more powerful elements (there isn't a rule that forces you to do that, but you may have noticed it's a better strategy)
-* *Aesthetics*: you play the role of a medieval commander, trying to outsmart your opponent in an open battle between two armies
+2. *Dynamics*: you may start your game with pawns, then as the board clears, shift your focus on more powerful elements (there isn't a rule that forces you to do that, but you may have noticed it's a better strategy)
+3. *Aesthetics*: you play the role of a medieval commander, trying to outsmart your opponent in an open battle between two armies
  
 **Mechanics shape dynamics, which in turn shape aesthetics.**
 
@@ -237,8 +237,8 @@ Now that we dipped our toes into *game hacking* and *system thinking*, how can w
 In small teams:
 
 1. Play with the [game-hacking idea generator](http://bit.ly/weblit-hacktivity-ideas-generator) to come up with a **game-hacking workshop idea**! 
-3. Explain to the rest of us how you envision it working with a group of learners.
-4. Share your idea on the [session etherpad](https://public.etherpad-mozilla.org/p/mozfest-2016-hacking-games-to-teach-web-literacy).
+2. Explain to the rest of us how you envision it working with a group of learners.
+3. Share your idea on the [session etherpad](https://public.etherpad-mozilla.org/p/mozfest-2016-hacking-games-to-teach-web-literacy).
 
 
 ### License
